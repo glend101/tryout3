@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="xqqVgxsmRCDDc" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Tryout 3</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="tryout_3_organization">
+		<organization identifier="tryout_3_organization">
+
+			<title>Tryout 3</title>
+			<item identifier="FB360F70-550D-457A-BF58-851F8DD3239B" identifierref="resource">
+				<title>Tryout 3</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-0c9d059e66fad70f457cc68fed9316a95b842490.mp3"/>
+<file href="res/data/audios/snd-0e8f3354949534fa3e383e9c21637de807ec2bf8.mp3"/>
+<file href="res/data/audios/snd-18c2b17e06f4d247185a59d717256556707522f4.mp3"/>
+<file href="res/data/audios/snd-43f823a2ba0c4578eb8e6ad10002e3aa886a8a9d.mp3"/>
+<file href="res/data/audios/snd-4b5fc7b64c5bdb80ead38f6a114aa4ab1d518536.mp3"/>
+<file href="res/data/audios/snd-527655bdf275be2fbc00ff4552ade461232c069b.mp3"/>
+<file href="res/data/audios/snd-569fa471a1a1a88bd148adea3c99ee81e850fa3f.mp3"/>
+<file href="res/data/audios/snd-6328890c96301fd7d29895f2004ca6c53d973e81.mp3"/>
+<file href="res/data/audios/snd-6b8ea11df3f0ff1f484c4f6c2781e5c142f1625d.mp3"/>
+<file href="res/data/audios/snd-6ec90ba6149af2792e2f7677a25985e8c90f8a9e.mp3"/>
+<file href="res/data/audios/snd-6fb329979147398446c28c9495e85065059bc43c.mp3"/>
+<file href="res/data/audios/snd-872fee3f5fba5842e63fd5d76b1aaac45c20a6e3.mp3"/>
+<file href="res/data/audios/snd-8e33ee63e41cc8f6ea2ce858a4f60553bc4d48cd.mp3"/>
+<file href="res/data/audios/snd-98bd4c0d77ad0af117925a3565e1d43a97ff9686.mp3"/>
+<file href="res/data/audios/snd-a375ec1721061c6cf54d95ffc6461563aeb71e52.mp3"/>
+<file href="res/data/audios/snd-a5cd90e730c525ebb8cb0143d2ea4657f7112d47.mp3"/>
+<file href="res/data/audios/snd-b2a6c6705bf11b2ff3095cc5735601d6b55968fd.mp3"/>
+<file href="res/data/audios/snd-b8b4790f185c8db13bb6afff1c0458517dfbe345.mp3"/>
+<file href="res/data/audios/snd-bb7d1e83efd9f594b7d723a5f4bd0b1d6f03e936.mp3"/>
+<file href="res/data/audios/snd-c983669aaa8d4cbf25f1477bc382a23a0e6f0b1f.mp3"/>
+<file href="res/data/audios/snd-f2962684b4009ce196e55321d6064492442f890c.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/fonts/fnt5.woff"/>
+<file href="res/data/fonts/fnt6.woff"/>
+<file href="res/data/fonts/fnt7.woff"/>
+<file href="res/data/fonts/fnt8.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/images/img-071fea01f279051ba1f3e8cdf0d6a9d75aa32ff9.jpg"/>
+<file href="res/data/images/img-0dcf54b7f286e9eb5f87817f3cd7e841046ec803.jpg"/>
+<file href="res/data/images/img-203bae807d0d56f6c67d6688de0b440558b4f5c9.jpg"/>
+<file href="res/data/images/img-2159e3265b262f5901a664393508306bd6b74f7a.jpg"/>
+<file href="res/data/images/img-240d3e367075c2092eda1bc2af61871c2e5072e5.jpg"/>
+<file href="res/data/images/img-26b767f8784c7bbed4f916716483b64119eca292.jpg"/>
+<file href="res/data/images/img-380167142522b3fdd21b6337e5370b26b07820d4.jpg"/>
+<file href="res/data/images/img-434c9f6379146120d5c7365658af2033dae7056d.jpg"/>
+<file href="res/data/images/img-4d0f0812b8bbebd78be02aab12c1fd9af0f8cbae.jpg"/>
+<file href="res/data/images/img-5a4edbeb100f12b610d699bec7c36b685ff69010.PNG"/>
+<file href="res/data/images/img-6495d4ec787d30a1513a8ce713c7114311a46108.jpg"/>
+<file href="res/data/images/img-64f2adaab306fec21c798a16756518c402545656.jpg"/>
+<file href="res/data/images/img-696ab68d7b237b15d8d147d4cd343728bfcc824b.jpg"/>
+<file href="res/data/images/img-7decd5aeb3bf3e59c4619c41965bd8289e5b49de.PNG"/>
+<file href="res/data/images/img-98c3d4c72ff09a4bf57bd7789dfcf63c9483103a.jpg"/>
+<file href="res/data/images/img-9dc9882cf9ce5dd9bec69b0d796bae1b2e7a4803.jpg"/>
+<file href="res/data/images/img-9f3b565cf0b985013bafd001504d9e6347eb8070.jpg"/>
+<file href="res/data/images/img-9fbdd87e9a4a70224666c3ad0c00972929cff54b.jpg"/>
+<file href="res/data/images/img-a5c2102e05b3712c2cc0f9f362d612ca1e5b4604.jpg"/>
+<file href="res/data/images/img-a8addb0f1b3b803f378fd552f7d942037dce5163.jpg"/>
+<file href="res/data/images/img-a926a45022b9dd3b6af922594b2b2878a4d811d5.jpg"/>
+<file href="res/data/images/img-ab0df963c808620ffe1b6f818a75ab05747417bb.jpg"/>
+<file href="res/data/images/img-ad20675f5a21a6f03c29d49d813755ceaf3f7947.jpg"/>
+<file href="res/data/images/img-b6b21c1fad5d78124284cea5e6331504010f4b7d.jpg"/>
+<file href="res/data/images/img-cafdffc951178d67b9b06125400eb9e90a336a75.jpg"/>
+<file href="res/data/images/img-cc548592b5c6f61d5f3320d8af734b25b91f7ccb.jpg"/>
+<file href="res/data/images/img-ee0b6f408c3415d75bdeb535bb3d63820c3afcbd.jpg"/>
+<file href="res/data/images/img-f45fd21d47001be0d892686ad88aba0ceea34901.jpg"/>
+<file href="res/data/images/img-f7f800c6dd58524c7c64502536bbf12caf9d13fa.png"/>
+<file href="res/data/images/img-f855bace806222e0c859b647ce188f739274c9f5.jpg"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
